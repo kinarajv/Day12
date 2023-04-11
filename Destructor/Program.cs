@@ -23,7 +23,7 @@ namespace DestructorExample
 
 			//Making obj1 for Garbage Collection
 			obj1 = null;
-			Console.ReadKey();
+			GC.Collect();
 		}
 	}
 }

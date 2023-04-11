@@ -25,12 +25,12 @@ namespace DestructorDemo
             }
         }
 
-        /*~UmmanagedResource()
+        ~UmmanagedResource()
         {
             //Write Code here to Destroy the Object
             Console.WriteLine("Request Comes to Destructor to Destroy the Resources");
             Dispose(false);
-        }*/
+        }
 
         // This code added to correctly implement the disposable pattern.
         public void Dispose()
