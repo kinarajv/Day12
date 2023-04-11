@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2nL6m3SoEsNTY0TFJz/pOYcvjK3vsOXhYbrnviRYvUMpB/W4roZvv29uFJNyGTOEW8VVDxIO+KgktVfaIkesvQ==",
+  "dgSpecHash": "GFWKzu7tS1X26tx4rqFhA+VD/fgmJSUquvTGk7tcfPRsarWlG2fH2NJndEKmqoB1Dm6GFJ4JMp1aXvClq3Msjw==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Destructor\\Destructor.csproj",
+  "projectFilePath": "/workspaces/Day12/Destructor/Destructor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

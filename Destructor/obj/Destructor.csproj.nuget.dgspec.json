@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Destructor\\Destructor.csproj": {}
+    "/workspaces/Day12/Destructor/Destructor.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Destructor\\Destructor.csproj": {
+    "/workspaces/Day12/Destructor/Destructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Destructor\\Destructor.csproj",
+        "projectUniqueName": "/workspaces/Day12/Destructor/Destructor.csproj",
         "projectName": "Destructor",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Destructor\\Destructor.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Destructor\\obj\\",
+        "projectPath": "/workspaces/Day12/Destructor/Destructor.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/Day12/Destructor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.201/sdk/7.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
