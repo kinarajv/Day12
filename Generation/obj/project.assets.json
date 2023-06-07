@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "C:\\Users\\kinar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Day12/Generation/Generation.csproj",
+      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 12\\Generation\\Generation.csproj",
       "projectName": "Generation",
-      "projectPath": "/workspaces/Day12/Generation/Generation.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Day12/Generation/obj/",
+      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 12\\Generation\\Generation.csproj",
+      "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
+      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 12\\Generation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.201/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

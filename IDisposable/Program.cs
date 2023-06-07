@@ -1,42 +1,37 @@
-﻿using System;
-
-class MyClass : IDisposable
-{
-    // Flag to indicate whether the object has been disposed
+﻿class MyClass : IDisposable {
     private bool disposed = false;
-
-    // Public method to release resources held by the object
-    public void Dispose()
-    {
-        // Call the protected virtual method with disposing=true to release managed resources
+    
+    // Method untuk membebaskan sumber daya unmanaged
+    private void CleanupUnmanagedResources() {
+        // Kode untuk membebaskan sumber daya unmanaged
+    }
+    
+    // Method Dispose untuk membebaskan sumber daya
+    public void Dispose() {
         Dispose(true);
-
-        // Suppress finalization to prevent the finalizer from being called
         GC.SuppressFinalize(this);
     }
-
-    // Protected virtual method to release resources held by the object
-    protected virtual void Dispose(bool disposing)
-    {
-        // Check if the object has already been disposed
-        if (!disposed)
-        {
-            if (disposing)
-            {
-                // Release any managed resources here
-            }
-
-            // Release any unmanaged resources here
-
-            // Set the disposed flag to true
-            disposed = true;
+    
+    protected virtual void Dispose(bool disposing) {
+        if (disposed) {
+            return;
         }
+        
+        if (disposing) {
+            // Memanggil metode Dispose bagi objek yang memiliki referensi ke objek saat ini
+        }
+        
+        CleanupUnmanagedResources();
+        
+        disposed = true;
     }
-
-    // Finalizer to release unmanaged resources
-    ~MyClass()
-    {
-        // Call the protected virtual method with disposing=false to release unmanaged resources
+    
+    ~MyClass() {
         Dispose(false);
     }
+}
+
+// Menggunakan objek MyClass
+using (var obj = new MyClass()) {
+    // Kode untuk menggunakan objek
 }
