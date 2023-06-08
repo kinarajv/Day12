@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ULeu6WGX19IlaMD21WTLHL2n1M4mh/uHno8ky5GRb2KJCmkFfEuektwx2NBeGqdzvuZm9jai34UWUUaQ1JmK3A==",
+  "dgSpecHash": "ardaxtITEGUoMfsBZ/WvZXi0WRbMBHII0W2neCNElLqNuSYAKUxuvOK7dZsv78sI9QEiUkJ8/srviTklk7GaFA==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Trial\\Trial.csproj",
+  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\Trial\\Trial.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

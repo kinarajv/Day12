@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\DisposeDestructor\\DisposeDestructor.csproj": {}
+    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\DisposeDestructor\\DisposeDestructor.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\DisposeDestructor\\DisposeDestructor.csproj": {
+    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\DisposeDestructor\\DisposeDestructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\DisposeDestructor\\DisposeDestructor.csproj",
+        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\DisposeDestructor\\DisposeDestructor.csproj",
         "projectName": "DisposeDestructor",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\DisposeDestructor\\DisposeDestructor.csproj",
+        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\DisposeDestructor\\DisposeDestructor.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\DisposeDestructor\\obj\\",
+        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\DisposeDestructor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

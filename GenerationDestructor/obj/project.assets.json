@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDestructor\\GenerationDestructor.csproj",
+      "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\GenerationDestructor\\GenerationDestructor.csproj",
       "projectName": "GenerationDestructor",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDestructor\\GenerationDestructor.csproj",
+      "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\GenerationDestructor\\GenerationDestructor.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDestructor\\obj\\",
+      "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\GenerationDestructor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

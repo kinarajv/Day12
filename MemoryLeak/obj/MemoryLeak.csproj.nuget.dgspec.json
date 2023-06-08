@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\MemoryLeak\\MemoryLeak.csproj": {}
+    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\MemoryLeak\\MemoryLeak.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\MemoryLeak\\MemoryLeak.csproj": {
+    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\MemoryLeak\\MemoryLeak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\MemoryLeak\\MemoryLeak.csproj",
+        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\MemoryLeak\\MemoryLeak.csproj",
         "projectName": "MemoryLeak",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\MemoryLeak\\MemoryLeak.csproj",
+        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\MemoryLeak\\MemoryLeak.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\MemoryLeak\\obj\\",
+        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\MemoryLeak\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K4lWuOzyU+1jKlTkHKBL61hDkxbL4+rHv8HpMlh+SNeE5MJRHDTzmIXbexHv4IFJYYcbZ1z20O6H5hCoqqv7wg==",
+  "dgSpecHash": "SMeVF2WMGpwaPcljz5/7BJNePmPtePOX+5TCnCamu7ltMIrwCXoadCaTUVjDkOONJnFzhHYFOlxgq8ds2NyhFw==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\DisposeDestructor\\DisposeDestructor.csproj",
+  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\DisposeDestructor\\DisposeDestructor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

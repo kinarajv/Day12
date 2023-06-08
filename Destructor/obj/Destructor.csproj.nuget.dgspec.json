@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Destructor\\Destructor.csproj": {}
+    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\Destructor\\Destructor.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Destructor\\Destructor.csproj": {
+    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\Destructor\\Destructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Destructor\\Destructor.csproj",
+        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\Destructor\\Destructor.csproj",
         "projectName": "Destructor",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Destructor\\Destructor.csproj",
+        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\Destructor\\Destructor.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Destructor\\obj\\",
+        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\Destructor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

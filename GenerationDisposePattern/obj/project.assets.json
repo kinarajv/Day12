@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDisposePattern\\GenerationDisposePattern.csproj",
+      "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\GenerationDisposePattern\\GenerationDisposePattern.csproj",
       "projectName": "GenerationDisposePattern",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDisposePattern\\GenerationDisposePattern.csproj",
+      "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\GenerationDisposePattern\\GenerationDisposePattern.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDisposePattern\\obj\\",
+      "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\GenerationDisposePattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

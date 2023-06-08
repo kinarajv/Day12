@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\DestructorMultiple\\DestructorMultiple.csproj": {}
+    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\DestructorMultiple\\DestructorMultiple.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\DestructorMultiple\\DestructorMultiple.csproj": {
+    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\DestructorMultiple\\DestructorMultiple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\DestructorMultiple\\DestructorMultiple.csproj",
+        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\DestructorMultiple\\DestructorMultiple.csproj",
         "projectName": "DestructorMultiple",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\DestructorMultiple\\DestructorMultiple.csproj",
+        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\DestructorMultiple\\DestructorMultiple.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\DestructorMultiple\\obj\\",
+        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\DestructorMultiple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\StOvFlow\\StOvFlow.csproj": {}
+    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\StOvFlow\\StOvFlow.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\StOvFlow\\StOvFlow.csproj": {
+    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\StOvFlow\\StOvFlow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\StOvFlow\\StOvFlow.csproj",
+        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\StOvFlow\\StOvFlow.csproj",
         "projectName": "StOvFlow",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\StOvFlow\\StOvFlow.csproj",
+        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\StOvFlow\\StOvFlow.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\StOvFlow\\obj\\",
+        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\StOvFlow\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mMRAXIGlRhQz7802jRBsOIssT7e5+E1qJ2qOIgCbyPOlGDOIJKjj/MH84Qoe8eXMFT1RxsAQ9mIng+iS1o3kSg==",
+  "dgSpecHash": "c+vssOrJdPBo60QsD83PyGBgENqCfXeNvti3Wz6axRsPsTAdQGNVbaiRIgnhAeuJx+3sKch+Ki5N1nYQi+6RbA==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\IDisposableExample\\IDisposableExample.csproj",
+  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\IDisposableExample\\IDisposableExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\IDisposable\\IDisposable.csproj": {}
+    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\IDisposable\\IDisposable.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\IDisposable\\IDisposable.csproj": {
+    "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\IDisposable\\IDisposable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\IDisposable\\IDisposable.csproj",
+        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\IDisposable\\IDisposable.csproj",
         "projectName": "IDisposable",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\IDisposable\\IDisposable.csproj",
+        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\IDisposable\\IDisposable.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\IDisposable\\obj\\",
+        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\Day12\\IDisposable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
